@@ -1,0 +1,28 @@
+# Environment files
+.env/
+venv/
+
+# Datasets
+dataset/
+
+# YOLO training outputs
+runs/
+
+# Model weights
+*.pt
+
+# Cache files
+*.cache
+
+# CSV, logs, and temp files from training
+*.csv
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
